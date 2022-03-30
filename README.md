@@ -17,6 +17,4 @@ A list of technologies used within the project:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiSinghWeb&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📞 Contact Me
-* <a href="https://codepen.io/jais55"><b>Codpen</b></a>
-* <a href="https://github.com/JaiSinghWeb"><b>Github</b></a>
+
